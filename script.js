@@ -1,4 +1,5 @@
 console.log('project by @annie')
+console.log("Hi World!")
 // function btnChanger() {
 //     let bg = document.getElementById("container").style.background = "white";
 //     let x = document.getElementById("btn-color").style.background = "indigo";
